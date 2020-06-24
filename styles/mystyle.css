@@ -1,0 +1,21 @@
+body {
+  margin: 2vh 2vw;
+
+  background: #9b9fb2;
+  background: -moz-linear-gradient(top, #3DFBFF 0%, #061028 100%);
+  background: -webkit-linear-gradient(top, #3DFBFF 0%,#061028 100%);
+  background: linear-gradient(to bottom, #3DFBFF 0%,#061028 100%);
+}
+#map {
+  height: 100vh;
+  width: 95vw;
+}
+
+#header {
+	color: #ffffff; 
+	font-family: 'Lato', sans-serif; 
+	font-size: 54px; 
+	font-weight: 300; 
+	line-height: 58px; 
+	margin: 0px; }
+}
